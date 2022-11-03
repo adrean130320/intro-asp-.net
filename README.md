@@ -5,4 +5,7 @@ Visual estudio preferiblemente el 2022
 1. Ejecutar los scripts de bdasp en sql server para crear la base de datos y la tabla
 # Instalar depedenicias
 se instalaran las dependencias de entity framework sql y tools
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+# ajustar cadena de conexion
 
