@@ -10,7 +10,12 @@ Microsoft.EntityFrameworkCore.SqlServer
 Microsoft.EntityFrameworkCore.Tools
 
 # ajustar cadena de conexion
-en el archivo appsettings.json en el apartado "ConnectionStrings": {
+en el archivo appsettings.json en el apartado 
+
+"ConnectionStrings": {
+
     "PubContext": "Server=xxxxxxxxxxxxxxxxxxxx; Database=xxxxxxxxxxxxx; Trusted_Connection=True;"
+    
   }
+  
 ajustar el PubContext con tu cadena de conexion
